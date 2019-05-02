@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D0151FDB-64A9-46AE-B5AB-7A932F3741E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0C2C19FE-C7A7-4A1F-97E9-B4EA45BF6EC9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "161A64A2-7161-4744-9278-9B746BC5B294",
+    "height": 200,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "387E1797-79FC-4364-83A7-D52ADDEBBEA1"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2AB7B6DF-EC1D-4D62-ABCB-B110B2C515BA"
+    },
+    {
+      "class": "group",
+      "id": "B7BF62D0-AD6B-4228-95DC-2A7C53D336C8"
+    }
+  ],
+  "name": "GoogleFiber-Center-Color",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A88AB75-6F88-4DCC-9E81-21D37B622EAF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

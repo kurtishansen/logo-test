@@ -1,0 +1,105 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BB16A209-6714-439A-9E38-1370C3DD897E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CED5C428-A62E-43B9-B534-5B352801778D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1C313D79-EAA9-4D57-A46A-64CFE3A0221A",
+    "height": 100.6594088379157,
+    "width": 304,
+    "x": 0,
+    "y": 0.805430716176943
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F1FBE519-9336-4F7B-B2BD-A24A84E9740D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "779A2E8E-3227-497E-A75A-A1C91224A2AD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1B3B97A3-1CCA-45CE-99EC-1EBEC6A4C3D9"
+    },
+    {
+      "class": "shapePath",
+      "id": "C816DE06-5B67-43FE-8129-3F0BBC86BAD1"
+    }
+  ],
+  "name": "Combined Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5491152C-5C81-42D8-90CF-FF64B33D7EC0",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 100.6594,
+            "enabled": 1,
+            "modelID": "constraint_6e01d96a-be21-439a-b042-3e82bfa7e7fc",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 304
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_ad3de6bb-2564-48b9-bb09-6e82d98f6ba0",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

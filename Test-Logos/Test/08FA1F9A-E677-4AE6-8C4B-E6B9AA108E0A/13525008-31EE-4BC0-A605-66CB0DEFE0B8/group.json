@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "13525008-31EE-4BC0-A605-66CB0DEFE0B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DECDA997-7F89-4FFB-8406-A66DB5AD70A9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B42D17DC-33A2-4A7F-B58E-1981154BA6A4",
+    "height": 200,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "423AA8AA-92CF-4BE6-B0EA-94BA97BF6E06"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "78001737-FFA3-49D6-AEED-6B9A0A2FF825"
+    },
+    {
+      "class": "group",
+      "id": "91006CD5-3723-4EAA-88DD-254631045829"
+    }
+  ],
+  "name": "Youtube-Center-White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3D426D41-BDC1-4741-B3DE-8A80F1683189",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

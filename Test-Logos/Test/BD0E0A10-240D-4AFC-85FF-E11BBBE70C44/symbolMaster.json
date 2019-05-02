@@ -1,0 +1,117 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.8,
+    "do_objectID": "E34B1C8C-4D19-42F5-94F3-038E57DD91A8",
+    "green": 0.8,
+    "red": 0.8
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 15,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD0E0A10-240D-4AFC-85FF-E11BBBE70C44",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E980DD18-65F4-421B-BBA3-7197B1126331",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "-320-200",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "-640x400",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "30C39E0A-58D5-430D-BAB1-BA42F57D9C26",
+    "height": 200,
+    "width": 320,
+    "x": 2773,
+    "y": 153
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "9859A13E-7F78-4AE6-9F79-EBA94D15DB70"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "84A6B7B1-FB26-4FEF-A117-CD2CFA599E9D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4D50E815-C42D-47BE-A1F7-E8D97EFCDD56"
+    },
+    {
+      "class": "group",
+      "id": "18B8E503-67DF-4D0C-ADE2-ABA123A53F44"
+    }
+  ],
+  "name": "Cable/Cox/Cox/Center/Cox-Center-Color",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EBC2782B-A7BB-40E0-A817-503A7011BFB4_layerStyle"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BACB22D7-418D-40BC-BF4E-B4D0B9C49125",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1E1D43D2-2582-4414-BB93-9849ACD8076E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E97671A0-C418-4F33-9F65-4934A71F8F12",
+    "guides": [
+    ]
+  }
+}

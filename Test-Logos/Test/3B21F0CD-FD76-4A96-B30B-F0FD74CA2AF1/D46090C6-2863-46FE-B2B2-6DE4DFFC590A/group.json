@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D46090C6-2863-46FE-B2B2-6DE4DFFC590A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E634F66B-3EF6-4912-A9DB-27EC804F7A51",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E3F26C27-1249-468D-A628-418C77031652",
+    "height": 200,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "5CC8665E-077A-48C5-9037-24E1AA8765C3"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7EBEA5FE-CDF5-4FB4-A207-F771DDEA3EE0"
+    },
+    {
+      "class": "group",
+      "id": "FED51661-1A46-48E3-AC1B-661B6825C457"
+    }
+  ],
+  "name": "AttWatchTv-Center-White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "18EA88C0-56A0-4ED9-A36F-D8E4C181C7AC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
